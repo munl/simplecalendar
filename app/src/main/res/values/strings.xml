@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleCalandar</string>
+    <string name="error_message">Something went wrong: %s</string>
+</resources>
